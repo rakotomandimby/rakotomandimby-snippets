@@ -1,0 +1,13 @@
+{
+	"SF Default Controller": {
+		"prefix": "sf_default_controller",
+		"body": [
+			"/**",
+      " * ",
+      " */",
+      "class DefaultController extends AbstractController {",
+      "\t$0",
+      "}",
+		]
+	}
+}

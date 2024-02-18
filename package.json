@@ -1,15 +1,14 @@
-{
-    "name": "rakotomandimby-snippets",
-    "engines": {
-        "vscode": "^1.11.0"
-    },
-    "contributes": {
-        "snippets": [
-            {
-                "language": "*",
-                "path": "./snippets/php/php.json"
-            },
-        ]
-    }
-}
 
+{
+	"name": "rakotomandimby-snippets",
+	"contributes": {
+		"snippets": [
+			{
+				"language": [
+					"php"
+				],
+				"path": "./php.json"
+			}
+		]
+	}
+}
